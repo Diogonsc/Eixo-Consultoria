@@ -2,6 +2,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { FaInstagram, FaLinkedinIn, FaMapPin, FaPhone } from "react-icons/fa6"
 
+import { DeveloperCredit } from "@/components/developer-credit"
 import { contactInfo } from "@/lib/contact"
 
 const navigationItems = [
@@ -164,6 +165,7 @@ export function Footer() {
               </Link>
             ))}
           </nav>
+          <DeveloperCredit />
         </div>
       </div>
     </footer>

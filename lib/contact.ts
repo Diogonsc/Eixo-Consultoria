@@ -4,13 +4,13 @@ export const contactInfo = {
     city: "São Paulo — SP, 01311-000",
   },
   phone: {
-    display: "(31) 99246-1750",
-    href: "tel:+5531992461750",
-    whatsapp: "5531992461750",
+    display: "(11) 92015-1289",
+    href: "tel:+5511920151289",
+    whatsapp: "5511920151289",
   },
   email: {
-    display: "contato@eixoconsultoria.com.br",
-    href: "mailto:contato@eixoconsultoria.com.br",
+    display: "contato@eixoconsultoriaofc.com.br ",
+    href: "mailto:contato@eixoconsultoriaofc.com.br ",
   },
   social: [
     {
