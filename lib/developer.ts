@@ -5,8 +5,8 @@ export const developerInfo = {
     href: "mailto:diogos.nascimento@outlook.com",
   },
   whatsapp: {
-    display: "(31) 97381-9373",
-    href: "https://wa.me/5531973819373",
+    display: "(21) 97381-9373",
+    href: "https://wa.me/5521973819373",
   },
   linkedin: {
     label: "LinkedIn",
