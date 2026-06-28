@@ -15,7 +15,7 @@ export const contactInfo = {
   social: [
     {
       label: "Instagram",
-      href: "https://instagram.com/eixoconsultoria",
+      href: "https://instagram.com",
     },
     {
       label: "LinkedIn",
